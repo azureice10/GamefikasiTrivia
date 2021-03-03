@@ -1,0 +1,139 @@
+<resources>
+    <string name="app_name">Sadar Siber</string>
+    <string name="question">Question</string>
+    <string name="play_again">Play again</string>
+    <string name="time">15</string>
+    <string name="correct">Correct</string>
+    <string name="wrongans">Opps the ans was wrong</string>
+    <string name="timeup">Time Up</string>
+    <string name="play_game">Play Game</string>
+    <string name="quit">Quit</string>
+    <string name="next">Next</string>
+    <string name="cancel">✖</string>
+    <string name="materi_name">Nama Materi</string>
+    <string name="materi">Materi</string>
+    <string name="video">Video</string>
+    <string name="materi_title">Seputar Siber</string>
+    <string name="desc">Deskripsi</string>
+
+    <string-array name="materi_list">
+        <item>BACKDOOR</item>
+        <item>BOTNET</item>
+        <item>BOT</item>
+        <item>BRUTE FORCE</item>
+        <item>BUG</item>
+        <item>CARDING</item>
+        <item>CEH</item>
+        <item>CRACK</item>
+        <item>DEFACE</item>
+        <item>DDOS</item>
+        <item>END-TO-END ENCRYPTION</item>
+        <item>EXPLOIT</item>
+        <item>FLOOD</item>
+        <item>KEYLOGGER</item>
+        <item>LEAKED</item>
+        <item>MALWARE</item>
+        <item>PATCH</item>
+        <item>PHISING</item>
+        <item>PWND</item>
+        <item>SCAM</item>
+        <item>SOCIAL ENGINEERING</item>
+        <item>SPOOF/SPOOFING</item>
+        <item>Surfing</item>
+        <item>TROJAN</item>
+        <item>VULNERABLE</item>
+        <item>WORM</item>
+        <item>ZERO DAY</item>
+    </string-array>
+
+    <string-array name="materi_description">
+        <item>Backdoor adalah program yang diciptakaan oleh hacker yang bertujuan untuk mengontrol sistem tanpa diketahui oleh Administrator.</item>
+        <item>Botnet adalah sekumpulan program yang saling terhubung melalui Internet yang berkomunikasi dengan program-program sejenis untuk melakukan tugas tertentu.</item>
+        <item>Bot adalah program yang dibuat oleh para hacker bertujuan untuk mengerjakan pekerjaanya secara otomatis.</item>
+        <item>Brute Force adalah teknik cracking-password dengan menggunakan sebuah program, dan program ini sengaja dibuat untuk men-submit ribuan password hanya dalam hitungan detik.</item>
+        <item>Bug adalah kesalahan pada program yang mengakibatkan terdapat kerentanan (vulnerable) pada suatu aplikasi.</item>
+        <item>Carding adalah suatu aktifitas yang dilakukan para hacker, untuk mencuri kartu kredit dan lain-lain, dan membelanjakannya secara ilegal.</item>
+        <item>Certified Ethical Hacker (CEH) adalah salah satu tingkatan sertifikasi yang ditawarkan oleh EC-Council (lembaga sertifikasi di bidang cyber security), CEH sangat populer belakangan ini karena rangkaian pembelajaran yang diajarkan sangat unik, anda diajarkan untuk menjadi seorang hacker</item>
+        <item>Crack adalah suatu aktifitas pembobolan atau membobol suatu aplikasi hingga suatu jaringan.</item>
+        <item>Deface adalah suati aktifitas dimana seorang hacker merusak sebuah situs kemudian merubah tampilan situs tersebut.</item>
+        <item>DDoS adalah singkatan dari Distributed Denial of Service attacks, DDoS adalah jenis serangan yang dilakukan oleh attacker/hacker terhadap sebuah komputer atau server di dalam jaringan internet dengan cara menghabiskan sumber daya hingga sistem atau jaringan tersebut tidak bisa digunakan lagi.</item>
+        <item>End-to-end encryption merupakan sistem komunikasi digital yang dirancang agar orang yang menerima pesan atau konten hanyalah pihak-pihak yang berhak menerimanya</item>
+        <item>Exploit adalah kode yang bertujuan untuk menyerang keamanan komputer.</item>
+        <item>Flood merupakan aktifitas penyerangan dengan cara membanjiri dan dengan tujuan merusak suatu sistem</item>
+        <item>Keylogger adalah suatu aplikasi yang merekam aktivitas pengguna komputer, dengan tujuan memata-matai.</item>
+        <item>Leaked merpakan aktifitas seorang hacker yang membocorkan sebuah informasi rahasia ke publik</item>
+        <item>Malware adalah singkatan dari Malicious Software, Malware adalah sebuah program berbahaya yang dapat merusak sebuah komputer, contohnya seperti diatas Trojan dan Worm.</item>
+        <item>Patch adalah kegiatan dimana seseorang menambal atau menutup suatu kerentanan (vulnerable)</item>
+        <item>Phising adalah tujuan untuk memperoleh informasi pribadi seperti password atau data-data lainnya, dengan cara menipu.</item>
+        <item>Pwnd merupakan bahasa dimana seorang hacker telah meretas sistem itu</item>
+        <item>Scam adalah suatu informasi elektronik dengan tujuan menipu.</item>
+        <item>Social engineering merupakan manipulasi psikologis dari seseorang dalam melakukan aksi atau menguak suatu informasi rahasia</item>
+        <item>Spoofing adalah teknik yang digunakan untuk memperoleh akses yang tidak sah ke suatu komputer atau informasi dimana penyerang berhubungan dengan pengguna dengan berpura-pura memalsukan bahwa mereka adalah host yang dapat dipercaya “hal ini biasanya dilakukan oleh seorang hacker atau cracker”</item>
+        <item>Surfing adalah salah satu metode yang digunakan oleh hacker untuk memperoleh informasi tentang targetnya dengan menggunakan teknik-teknik pengamatan langsung, seperti memeriksa tingkah laku seseorang, untuk mendapat informasi.</item>
+        <item>Trojan adalah sebuah kode program atau bisa juga disebut virus, Trojan dapat merusak sebuah sistem maupun sebuah jaringan.</item>
+        <item>Vulnerable adalah dimana suatu sistem terdapat kelemahan atau kerentanan yang membahayakan sistem atau aplikasi itu sendiri.</item>
+        <item>Worm adalah sebuah program komputer atau bisa juga disebut virus yang dapat menggandakan dirinya secara sendiri dalam sistem komputer.</item>
+        <item>Zero day merupakan kondisi ketika exploit dipublikasikan secara cuma-cuma oleh para Debugger untuk para Script Kiddie</item>
+    </string-array>
+
+    <array name="materi_iconn">
+        <item>https://image.flaticon.com/icons/png/512/1995/1995676.png</item>
+        <item>https://image.flaticon.com/icons/png/512/2808/2808265.png</item>
+        <item>https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Logo_wikibot.svg/1024px-Logo_wikibot.svg.png</item>
+        <item>https://image.flaticon.com/icons/png/512/673/673069.png</item>
+        <item>https://image.flaticon.com/icons/png/512/490/490865.png</item>
+        <item>https://image.flaticon.com/icons/png/512/1031/1031434.png</item>
+        <item>https://softuni.bg/Files/OpenCourses/Icon_Ethical_Hacking.png</item>
+        <item>https://www.wordfence.com/wp-content/uploads/2015/12/PWBrief_Icon.png</item>
+        <item>https://www.odibolivia.org/wp-content/uploads/2018/09/DefacementIcon.png</item>
+        <item>https://wizardcyber.com/wp-content/uploads/2019/08/DDoS-Icon.png</item>
+        <item>https://cdn.pixelprivacy.com/wp-content/uploads/2018/03/Network-Security-Icon.png</item>
+        <item>https://www.mnemonic.no/globalassets/icons/technical-risk-services.png</item>
+        <item>http://www.newdesignfile.com/postpic/2009/03/security-alarm-icon_202032.png</item>
+        <item>https://www.hs-academypages.com/hubfs/lp/academy/spyware.png</item>
+        <item>http://cnavbv.com/latest/wp-content/uploads/2016/06/icons_Data-Loss-Preventation.png</item>
+        <item>https://image.flaticon.com/icons/png/512/927/927906.png</item>
+        <item>https://image.flaticon.com/icons/png/512/453/453331.png</item>
+        <item>https://image.flaticon.com/icons/png/512/1088/1088436.png</item>
+        <item>http://icons.iconarchive.com/icons/streamlineicons/streamline-ux-free/1024/hacker-icon.png</item>
+        <item>https://maxcdn.icons8.com/office/PNG/512/City/fraud-512.png</item>
+        <item>https://www.wordfence.com/wp-content/uploads/2015/12/SEBrief_Icon.png</item>
+        <item>https://image.flaticon.com/icons/svg/1483/1483341.svg</item>
+        <item>https://cdn3.iconfinder.com/data/icons/miscellanea-1/64/01-Internet-512.png</item>
+        <item>https://image.flaticon.com/icons/png/512/927/927917.png</item>
+        <item>https://cwatch.comodo.com/images/check-website-vulnerability.png</item>
+        <item>https://image.flaticon.com/icons/png/512/554/554239.png</item>
+        <item>https://image.flaticon.com/icons/png/512/429/429122.png</item>
+    </array>
+
+    <array name="materi_icon">
+        <item>@drawable/hacker</item>
+        <item>@drawable/hacker</item>
+        <item>@drawable/hacker</item>
+        <item>@drawable/hacker</item>
+        <item>@drawable/hacker</item>
+        <item>@drawable/hacker</item>
+        <item>@drawable/hacker</item>
+        <item>@drawable/hacker</item>
+        <item>@drawable/hacker</item>
+        <item>@drawable/hacker</item>
+        <item>@drawable/hacker</item>
+        <item>@drawable/hacker</item>
+        <item>@drawable/hacker</item>
+        <item>@drawable/hacker</item>
+        <item>@drawable/hacker</item>
+        <item>@drawable/hacker</item>
+        <item>@drawable/hacker</item>
+        <item>@drawable/hacker</item>
+        <item>@drawable/hacker</item>
+        <item>@drawable/hacker</item>
+        <item>@drawable/hacker</item>
+        <item>@drawable/hacker</item>
+        <item>@drawable/hacker</item>
+        <item>@drawable/hacker</item>
+        <item>@drawable/hacker</item>
+        <item>@drawable/hacker</item>
+        <item>@drawable/hacker</item>
+    </array>
+
+</resources>
